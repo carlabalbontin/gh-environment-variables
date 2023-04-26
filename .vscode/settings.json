@@ -1,0 +1,6 @@
+{
+  "yaml.schemas": {
+    "file:///Users/carla.balbontin/.vscode/extensions/atlassian.atlascode-3.0.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+    "https://json.schemastore.org/github-workflow.json": "file:///Users/carla.balbontin/Documents/learning/github-actions/gh-environment-variables/.github/workflows/deploy.yml"
+  }
+}
